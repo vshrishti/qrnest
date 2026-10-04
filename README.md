@@ -1,15 +1,14 @@
-# qrnest
 # QRNest
 
-A simple and efficient Python-based QR Code Generator that converts an X (formerly Twitter) profile URL into a sleek, instantly scannable QR code.
+A refined, Python-powered QR Code Generator designed to transform an X (formerly Twitter) profile URL into a clean, instantly scannable QR code. The project combines simplicity with practical functionality, offering an efficient approach to digital profile sharing.
 
 ## Features
 
-- Generates QR codes from X profile URLs
-- Customizable QR code size and border
-- Saves the generated QR code as a PNG image
-- Lightweight and easy to use
-- Built with Python
+- Generates QR codes directly from X profile URLs
+- Supports customizable QR code dimensions and border parameters
+- Exports generated QR codes in high-quality PNG format
+- Lightweight, efficient, and straightforward to operate
+- Developed entirely using Python
 
 ## Tech Stack
 
@@ -19,17 +18,17 @@ A simple and efficient Python-based QR Code Generator that converts an X (former
 
 ## Installation
 
-Install the required library:
+Install the required Python dependency using:
 
 ```bash
 pip install qrcode[pil]
 
 Usage
-Run the Python script:
+Execute the Python script with:
 
 python project3.py
 
-The QR code will be generated and saved as:
+Upon execution, the application generates the corresponding QR code and saves it as:
 
 twitter_qrcode.png
 
@@ -41,9 +40,9 @@ QRNest/
 └── README.md
 
 About
-QRNest demonstrates practical Python concepts including third-party library integration, dynamic URL generation, QR encoding, image generation, and file handling.
+QRNest demonstrates the practical application of Python through third-party library integration, dynamic URL construction, data encoding, QR generation, image processing, and file handling.
 
-A simple project that transforms a profile link into a scannable QR code.
+The project presents a streamlined solution for converting a digital profile link into a universally accessible visual identifier, making profile sharing faster, simpler, and more convenient.
 
 License
-This project is licensed under the MIT License.
+This project is distributed under the MIT License
