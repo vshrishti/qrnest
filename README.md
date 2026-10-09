@@ -2,6 +2,10 @@
 
 A refined, Python-powered QR Code Generator designed to transform an X (formerly Twitter) profile URL into a clean, instantly scannable QR code. The project combines simplicity with practical functionality, offering an efficient approach to digital profile sharing.
 
+## Problem Statement
+
+Sharing X profile URLs manually can be inconvenient and time-consuming. QRNest addresses this problem by converting profile URLs into scannable QR codes using Python, enabling quick, simple, and efficient profile sharing.
+
 ## Features
 
 - Generates QR codes directly from X profile URLs
